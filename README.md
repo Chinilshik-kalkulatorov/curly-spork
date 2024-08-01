@@ -8,43 +8,43 @@ Water flows through a pipe that narrows from a diameter of 0.1 m to 0.05 m. If t
 1. **Velocity Calculation:**
    Using the continuity equation \(A_1 v_1 = A_2 v_2\):
 
-   \[
-   A_1 = \pi \left(\frac{0.1}{2}\right)^2 = 0.00785 \, \text{m}^2
-   \]
+   <p>
+   \(A_1 = \pi \left(\frac{0.1}{2}\right)^2 = 0.00785 \, \text{m}^2\)
+   </p>
 
-   \[
-   A_2 = \pi \left(\frac{0.05}{2}\right)^2 = 0.00196 \, \text{m}^2
-   \]
+   <p>
+   \(A_2 = \pi \left(\frac{0.05}{2}\right)^2 = 0.00196 \, \text{m}^2\)
+   </p>
 
-   \[
-   0.00785 \cdot 2 = 0.00196 \cdot v_2
-   \]
+   <p>
+   \(0.00785 \cdot 2 = 0.00196 \cdot v_2\)
+   </p>
 
-   \[
-   v_2 = \frac{0.00785 \cdot 2}{0.00196} = 8 \, \text{m/s}
-   \]
+   <p>
+   \(v_2 = \frac{0.00785 \cdot 2}{0.00196} = 8 \, \text{m/s}\)
+   </p>
 
 2. **Pressure Difference Calculation:**
    Using Bernoulli's equation:
 
-   \[
-   \frac{v_1^2}{2} + \frac{p_1}{\rho} = \frac{v_2^2}{2} + \frac{p_2}{\rho}
-   \]
+   <p>
+   \(\frac{v_1^2}{2} + \frac{p_1}{\rho} = \frac{v_2^2}{2} + \frac{p_2}{\rho}\)
+   </p>
 
-   \[
-   \frac{2^2}{2} + \frac{p_1}{\rho} = \frac{8^2}{2} + \frac{p_2}{\rho}
-   \]
+   <p>
+   \(\frac{2^2}{2} + \frac{p_1}{\rho} = \frac{8^2}{2} + \frac{p_2}{\rho}\)
+   </p>
 
-   \[
-   2 + \frac{p_1}{\rho} = 32 + \frac{p_2}{\rho}
-   \]
+   <p>
+   \(2 + \frac{p_1}{\rho} = 32 + \frac{p_2}{\rho}\)
+   </p>
 
-   \[
-   \frac{p_1 - p_2}{\rho} = 30
-   \]
+   <p>
+   \(\frac{p_1 - p_2}{\rho} = 30\)
+   </p>
 
    If \(\rho = 1000 \, \text{kg/m}^3\):
 
-   \[
-   p_1 - p_2 = 30 \cdot 1000 = 30000 \, \text{Pa} \text{ or } 30 \, \text{kPa}
-   \]
+   <p>
+   \(p_1 - p_2 = 30 \cdot 1000 = 30000 \, \text{Pa} \text{ or } 30 \, \text{kPa}\)
+   </p>
