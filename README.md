@@ -28,7 +28,7 @@ Water flows through a pipe that narrows from a diameter of 0.1 m to 0.05 m. If t
    Using Bernoulli's equation:
 
    $$
-   \frac{v_1^2}{2} + \frac{p_1}{\rho} = \frac{v_2^2}{2} + \frac{p_2}{\rho}
+   \frac{v_1^2}{2} + \frac{p_1}{\rho} = \frac{v_2^^2}{2} + \frac{p_2}{\rho}
    $$
 
    $$
